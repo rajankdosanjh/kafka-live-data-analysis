@@ -1,0 +1,12 @@
+# Python environments
+.venv/
+__pycache__/
+
+# Data and checkpoints
+local_parquet_data/
+checkpoint/
+*.parquet
+*.csv
+
+# OS generated files
+.DS_Store
